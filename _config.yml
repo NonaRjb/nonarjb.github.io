@@ -2,4 +2,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Nona Rajabi
 description: nonar[at]kth.se
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+# Optional extras
+logo: /assets/img/avatar.jpg     # add this file later if you want an avatar
+show_downloads: false            # theme option
+google_analytics: ""             # e.g. G-XXXXXXX (optional)
