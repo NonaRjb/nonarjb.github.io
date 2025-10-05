@@ -12,13 +12,14 @@ My research focuses on developing machine learning methods for human bio-signals
 
 Academic Background
 ======
-2025- | **Visiting Ph.D. Student**, NeuroAI Lab, EPFL, Lausanne, Switzerland.
 
-2021- | **Ph.D. Student in Computer Science**, Division of Robotics, Perception, and Machine Learning (RPL), KTH, Stockholm, Sweden.
+2025-: **Visiting Ph.D. Student**, NeuroAI Lab, EPFL, Lausanne, Switzerland.
 
-2019-2021 | **M.Sc. in Electrical Engineering-Bioelectric**, Sharif University of Technology, Tehran, Iran.
+2021-: **Ph.D. Student in Computer Science**, Division of Robotics, Perception, and Machine Learning (RPL), KTH, Stockholm, Sweden.
 
-2015-2019 | **B.Sc. in Electrical Engineering**, Sharif University of Technology, Tehran, Iran.
+2019-2021: **M.Sc. in Electrical Engineering-Bioelectric**, Sharif University of Technology, Tehran, Iran.
+
+2015-2019: **B.Sc. in Electrical Engineering**, Sharif University of Technology, Tehran, Iran.
 
 Experiences
 ======
