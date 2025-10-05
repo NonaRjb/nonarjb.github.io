@@ -23,9 +23,10 @@ Academic Background
 
 Experiences
 ======
-2020-2021 | **Research Assistant**, Convergent Technologies Research Institute (University of Tehran), Tehran, Iran.
 
-2019-2019 | **Research Assistant**, National University of Singapore (NUS), Singapore, Singapore.
+2020-2021: **Research Assistant**, Convergent Technologies Research Institute (University of Tehran), Tehran, Iran.
+
+2019-2019: **Research Assistant**, National University of Singapore (NUS), Singapore, Singapore.
 
 Selected Publications
 ------
