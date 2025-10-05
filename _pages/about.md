@@ -12,6 +12,7 @@ My research focuses on developing machine learning methods for human bio-signals
 
 Academic Background
 ======
+---
 
 2025-: **Visiting Ph.D. Student**, NeuroAI Lab, EPFL, Lausanne, Switzerland.
 
@@ -23,6 +24,7 @@ Academic Background
 
 Experiences
 ======
+---
 
 2020-2021: **Research Assistant**, Convergent Technologies Research Institute (University of Tehran), Tehran, Iran.
 
