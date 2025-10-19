@@ -36,14 +36,24 @@ Selected Publications
 
 News
 ------
-**September 2025:** I am visiting NeuroAI lab at EPFL, Switzerland, to work on any-to-any models for brain signals under supervision of Prof. Martin Schrimpf🇨🇭! 
-**July 2025:** I attended ICML 2025, at Vancouver to present our paper "Human-Aligned Image Models Improve Visual Decoding from the Brain"🇨🇦!
-**May 2025:** May 2025: Our paper "Human-Aligned Image Models Improve Visual Decoding from the Brain" got accepted in ICML 2025! ([Link](https://openreview.net/pdf?id=i6uxIAAMje))
-**December 2024:** Our paper "Deep Learning Amplified Early Stopping Bias: Overestimating Performance on Small Datasets" got accepted to be presented in IEEE ICASSP 2025!
-**December 2024:** I attended NeurIPS 2024 in Vancouver🇨🇦 to present our workshop paper!
-**October 2024:** Our work "Amplified Early Stopping Bias: Overestimated Performance with Deep Learning" is accepted at the NeurIPS 2024 Workshop on Scientific Methods for Understanding Deep Learning (Sci4DL)!
-**August 2024:** Our paper, "Imitation or Innovation? Translating Features of Expressive Motion from Humans to Robots" was accepted at the Twelfth International Conference on Human-Agent Interaction (HAI 2024)!
-**August, 2023:** I presented our paper "Detecting the Intention of Object Handover in Human-Robot Collaborations: An EEG Study" at the IEEE RO-MAN conference in Busan, South Korea🇰🇷!
-**July 2023:** I presented our paper "Mental Face Image Retrieval Based on a Closed-Loop Brain-Computer Interface" at the HCI International conference in Copenhagen, Denmark🇩🇰!
-**May 2022:** I won the best clinical/translational poster blitz award at StratNeuro Retreat 2022 for presenting my poster "Searching for Imagined Visual Content Using a Closed-Loop Brain-Computer Interface".
-**November 2021:** I started my Ph.D. in computer science at KTH, Sweden, uder supervision of Prof. Danica Kragic🇸🇪.
+- **September 2025:** I am visiting NeuroAI lab at EPFL, Switzerland, to work on any-to-any models for brain signals under supervision of Prof. Martin Schrimpf🇨🇭! 
+
+- **July 2025:** I attended ICML 2025, at Vancouver to present our paper "Human-Aligned Image Models Improve Visual Decoding from the Brain"🇨🇦!
+
+- **May 2025:** May 2025: Our paper "Human-Aligned Image Models Improve Visual Decoding from the Brain" got accepted in ICML 2025! ([Link](https://openreview.net/pdf?id=i6uxIAAMje))
+
+- **December 2024:** Our paper "Deep Learning Amplified Early Stopping Bias: Overestimating Performance on Small Datasets" got accepted to be presented in IEEE ICASSP 2025!
+
+- **December 2024:** I attended NeurIPS 2024 in Vancouver🇨🇦 to present our workshop paper!
+
+- **October 2024:** Our work "Amplified Early Stopping Bias: Overestimated Performance with Deep Learning" is accepted at the NeurIPS 2024 Workshop on Scientific Methods for Understanding Deep Learning (Sci4DL)!
+
+- **August 2024:** Our paper, "Imitation or Innovation? Translating Features of Expressive Motion from Humans to Robots" was accepted at the Twelfth International Conference on Human-Agent Interaction (HAI 2024)!
+
+- **August, 2023:** I presented our paper "Detecting the Intention of Object Handover in Human-Robot Collaborations: An EEG Study" at the IEEE RO-MAN conference in Busan, South Korea🇰🇷!
+
+- **July 2023:** I presented our paper "Mental Face Image Retrieval Based on a Closed-Loop Brain-Computer Interface" at the HCI International conference in Copenhagen, Denmark🇩🇰!
+
+- **May 2022:** I won the best clinical/translational poster blitz award at StratNeuro Retreat 2022 for presenting my poster "Searching for Imagined Visual Content Using a Closed-Loop Brain-Computer Interface".
+
+- **November 2021:** I started my Ph.D. in computer science at KTH, Sweden, uder supervision of Prof. Danica Kragic🇸🇪.
