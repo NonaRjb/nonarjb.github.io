@@ -32,7 +32,8 @@ Experiences
 
 Selected Publications
 ------
-- Nona Rajabi, António H Ribeiro*, Miguel Vasco*, and 3 more authors arXiv preprint arXiv:2502.03081. Accepted at ICML 2025, 2025. ([Link](https://openreview.net/pdf?id=i6uxIAAMje))
+- **Human-Aligned Image Models Improve Visual Decoding from the Brain.** Nona Rajabi, António H Ribeiro*, Miguel Vasco*, and 3 more authors. *Forty-second International Conference on Machine Learning.* 2025. ([Link](https://openreview.net/pdf?id=i6uxIAAMje))
+- **Exploring the feasibility of olfactory brain–computer interfaces.** Nona Rajabi, Irene Zanettin, António H Ribeiro, and 4 more authors. *Scientific Reports* 15.1 (2025).
 
 News
 ------
