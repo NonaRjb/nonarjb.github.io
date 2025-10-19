@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Human-Aligned Image Models Improve Visual Decoding from the Brain"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+excerpt: 'This paper proposes leveraging human-aligned image encoders to map brain signals to images using self-supervised learning, achieving up to 21% higher accuracy compared to state of the art.'
+date: 2025-05-01
+venue: 'International Conference on Machine Learning'
+slidesurl: 'https://slideslive.com/39039771'
+paperurl: 'https://openreview.net/pdf?id=i6uxIAAMje'
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:plgsxr7I4vUJ:scholar.google.com/&output=citation&scisdr=CgJa_xWGEKza2DHzmpY:AAZF9b8AAAAAaPT1gpaSK4rhOsq7q1q8VF41vQw&scisig=AAZF9b8AAAAAaPT1gsjzC38d0Zj4YewmHcDPp2I&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
