@@ -2,7 +2,7 @@
 title: "Human-Aligned Image Models Improve Visual Decoding from the Brain"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/human_aligned_visual_decoding
 excerpt: 'This paper proposes leveraging human-aligned image encoders to map brain signals to images using self-supervised learning, achieving up to 21% higher accuracy compared to state of the art.'
 date: 2025-05-01
 venue: 'International Conference on Machine Learning'
