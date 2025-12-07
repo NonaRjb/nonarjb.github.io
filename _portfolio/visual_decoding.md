@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Visual Decoding from the Brain"
+excerpt: "Retrieve or reconstruct the observed or imagined visual image from the corresponding brain activity.<br/><img src='/images/visual_decoding.png'>"
+
 collection: portfolio
 ---
 
