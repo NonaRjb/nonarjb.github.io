@@ -35,7 +35,7 @@ Selected Publications
 <div class="pub-list">
 
   <div class="pub-item">
-    <img class="pub-thumb" src="/images/pubs/icml2025_thumb.png" alt="Human-Aligned Image Models thumbnail">
+    <img class="pub-thumb" src="/images/icml2025_thumb.png" alt="Human-Aligned Image Models thumbnail">
     <div class="pub-text">
       <strong>Human-Aligned Image Models Improve Visual Decoding from the Brain.</strong>  
       Nona Rajabi, António H Ribeiro*, Miguel Vasco*, and 3 more authors.  
@@ -45,7 +45,7 @@ Selected Publications
   </div>
 
   <div class="pub-item">
-    <img class="pub-thumb" src="/images/pubs/olfactory_bci_thumb.png" alt="Olfactory BCI thumbnail">
+    <img class="pub-thumb" src="/images/olfactory_bci_thumb.png" alt="Olfactory BCI thumbnail">
     <div class="pub-text">
       <strong>Exploring the feasibility of olfactory brain–computer interfaces.</strong>  
       Nona Rajabi, Irene Zanettin, António H Ribeiro, and 4 more authors.  
