@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at [KTH Royal Institute of Technology](https://www.kth.se/en) under the supervision of Professor [Danica Kragic](https://scholar.google.com/citations?user=ZlSVieAAAAAJ&hl=en). 
+I am a final-year Ph.D. student at [KTH Royal Institute of Technology](https://www.kth.se/en) under the supervision of Professor [Danica Kragic](https://scholar.google.com/citations?user=ZlSVieAAAAAJ&hl=en). 
 My research focuses on developing machine learning methods for human bio-signals, particularly electroencephalogram (EEG) data, an inherently noisy and highly multivariate signal with a low signal-to-noise ratio. I aim to decode perception and intention from EEG by leveraging multimodal learning approaches that integrate complementary signals such as visual input, gaze direction, and respiratory patterns to enhance representation quality and task performance.
 
 Academic Background
@@ -32,8 +32,28 @@ Experiences
 
 Selected Publications
 ------
-- **Human-Aligned Image Models Improve Visual Decoding from the Brain.** Nona Rajabi, António H Ribeiro*, Miguel Vasco*, and 3 more authors. *Forty-second International Conference on Machine Learning.* 2025. ([Link](https://openreview.net/pdf?id=i6uxIAAMje))
-- **Exploring the feasibility of olfactory brain–computer interfaces.** Nona Rajabi, Irene Zanettin, António H Ribeiro, and 4 more authors. *Scientific Reports* 15.1 (2025).
+<div class="pub-list">
+
+  <div class="pub-item">
+    <img class="pub-thumb" src="/images/pubs/icml2025_thumb.png" alt="Human-Aligned Image Models thumbnail">
+    <div class="pub-text">
+      <strong>Human-Aligned Image Models Improve Visual Decoding from the Brain.</strong>  
+      Nona Rajabi, António H Ribeiro*, Miguel Vasco*, and 3 more authors.  
+      <em>Forty-second International Conference on Machine Learning.</em> 2025.  
+      (<a href="https://openreview.net/pdf?id=i6uxIAAMje">Link</a>)
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <img class="pub-thumb" src="/images/pubs/olfactory_bci_thumb.png" alt="Olfactory BCI thumbnail">
+    <div class="pub-text">
+      <strong>Exploring the feasibility of olfactory brain–computer interfaces.</strong>  
+      Nona Rajabi, Irene Zanettin, António H Ribeiro, and 4 more authors.  
+      <em>Scientific Reports</em> 15.1 (2025).
+    </div>
+  </div>
+
+</div>
 
 News
 ------
