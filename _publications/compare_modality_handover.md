@@ -11,4 +11,4 @@ bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:CN3VB2akJXk
 citation: 'Khanna, P. & Rajabi, N. et al. &quot;Early detection of human handover intentions in human-robot collaboration: Comparing EEG, gaze, and hand motion.&quot; <i>Robotics and Autonomous Systems</i>. (2025): 105244'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper develops and compares multimodal intention detectors based on EEG, gaze, and hand-motion signals to distinguish handover from non-handover actions in human–robot collaboration, demonstrating that all three modalities can reveal handover intention but that gaze provides the earliest and most accurate classification.
