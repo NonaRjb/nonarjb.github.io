@@ -49,7 +49,25 @@ Selected Publications
     <div class="pub-text">
       <strong>Exploring the feasibility of olfactory brain–computer interfaces.</strong>  
       Nona Rajabi, Irene Zanettin, António H Ribeiro, and 4 more authors.  
-      <em>Scientific Reports</em> 15.1 (2025).
+      <em>Scientific Reports</em> 15.1 (2025). (<a href="https://www.nature.com/articles/s41598-025-01488-z">Link</a>)
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <img class="pub-thumb" src="/images/handover_abstract.png" alt="EEG Handover thumbnail">
+    <div class="pub-text">
+      <strong>Detecting the Intention of Object Handover in Human-Robot Collaborations: An EEG Study.</strong>  
+      Nona Rajabi, Parag Khanna, Sumeyra U. Demir Kanik, and 5 more authors.  
+      <em>32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</em> 2023. (<a href="https://ieeexplore.ieee.org/abstract/document/10309426">Link</a>)
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <img class="pub-thumb" src="/images/cl_bci.png" alt="Closed-Loop BCI thumbnail">
+    <div class="pub-text">
+      <strong>Mental Face Image Retrieval Based on a Closed-Loop Brain-Computer Interface.</strong> 
+      Nona Rajabi, Charles Chernik, Alfredo Reichlin, and 5 more authors.  
+      <em>25th HCI International Conference (HCII)</em> 2023. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-35017-7_3">Link</a>)
     </div>
   </div>
 
